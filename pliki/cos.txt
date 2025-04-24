@@ -1,0 +1,6 @@
+1=2
+nie=no
+tak=yes
+ona=she
+jest=is
+dom=house;flat
